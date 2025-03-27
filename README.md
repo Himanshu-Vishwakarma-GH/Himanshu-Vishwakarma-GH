@@ -16,10 +16,17 @@ I love problem-solving, automation, and exploring Linux. Let's connect and colla
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🔥 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Vishwakarma-GH&show_icons=true&theme=dark)
 
 ## 🏆 Certifications
-[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/33ba1f0a196b)
+<a href="https://www.credly.com/badges/abf99f4f-c7c7-498f-949e-5f2a620c28d1">
+    <img src="https://images.credly.com/images/a3939c8e-cb02-4341-8438-585c0d333673/AI_Foundations.png" alt="IBM AI Foundation Badge" width="143">
+</a>  
+<a href="https://www.credly.com/badges/32d9f703-b1ac-439d-95b1-06e6f28c5acb/public_url">
+    <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Cisco Data Science" width="143">
+</a>
+
+[![HackerRank](https://img.shields.io/badge/Python-HR_Certified-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/33ba1f0a196b)   
+
+
 
 
